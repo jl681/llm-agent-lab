@@ -83,5 +83,4 @@
    2. 选择 Python (.venv)
    ```
 6. 打开第一个 Notebook
-   - 浏览 notebooks/00-overview.md 了解第一部分目标
    - 运行 notebooks/01_setup_qwen_api.ipynb 开始学习！
