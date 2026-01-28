@@ -3,6 +3,8 @@ python-dotenv>=1.0.0
 openai>=1.40.0          # 建议 >=1.40.0 以获得最佳兼容性
 jupyter>=1.0.0
 ipykernel>=6.0.0
-
-
 tqdm>=4.60.0            # 进度条（用于并行调用反馈）
+scikit-learn>=1.0.0
+PyPDF2>=1.28.0 
+numpy>=1.21.0
+scikit-learn>=1.0.0

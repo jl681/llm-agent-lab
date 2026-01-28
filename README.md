@@ -24,6 +24,7 @@
 | 6    | `06_agent_with_tools.ipynb`           | 让 Agent 使用外部工具             | 工具注册、函数调用、安全执行、工具描述（为自动选择铺垫）                   |
 | 7    | `07_react_agent.ipynb`                | 实现 ReAct 推理框架               | Thought-Action-Observation 循环、自主规划、多步推理、防死循环机制          |
 | 8    | `08_multi_agent_collaboration.ipynb`  | 多 Agent 协作解决问题（可选进阶） | 角色分工（Writer/Reviewer）、消息传递、协作协议                            |
+| 9    | `09_manual_rag.ipynb`                 | 检索增强生成（RAG）               | 如何让 LLM 基于私有知识回答，避免幻觉？                                    |
 
 ## 设计原则
 
