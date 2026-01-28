@@ -1,7 +1,7 @@
 # LLM Agent Lab 🧪 从零构建多模型智能体
 
-从零构建多模型 LLM Agent 的动手实验室  
-不依赖 LangChain，不追求黑盒封装，只关注原理、控制力与可扩展性。
+一个从零构建 LLM Agent 的渐进式实验项目。
+不依赖 LangChain，专注理解 Agent 的核心机制：记忆、工具、推理、协作。
 
 ## 项目初心
 
