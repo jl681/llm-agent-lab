@@ -1,5 +1,4 @@
 jupyter
 python-dotenv
-requests
-tqdm
+openai>=1.0.0
 ipykernel
